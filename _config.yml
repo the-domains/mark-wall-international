@@ -1,0 +1,28 @@
+name: Mark Wall International
+favicon: null
+layout_spectrum: 0.8769126331899315
+typography_spectrum: 0.8712125676684082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9873762207571417
+  lightness: 0.44365305663086474
+  saturation: 0.2683770162984729
+  rhythmicContrast: 0.8616834089625627
+purpose: []
